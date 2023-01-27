@@ -10,6 +10,8 @@ La funcionalidad de la aplicación es sencilla e intuitiva. Podes elegir tu sexo
 ## Imágenes ilustrativas
 
 ## Tecnologías usadas
+![image](https://user-images.githubusercontent.com/67272806/215142231-dedab796-9af1-4fbd-95a7-99a55d90aacb.png)
+![image](https://user-images.githubusercontent.com/67272806/215142278-96fe11fc-d9d7-443b-a116-0c6f064b0af8.png)
 
 - [![Angular][angular.io]][angular-url]
 - [![Typescript][typescript.com]][typescript-url]

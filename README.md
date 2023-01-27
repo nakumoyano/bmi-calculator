@@ -8,10 +8,10 @@ Proyecto simple en el cual podes consultar si tu peso esta entre Bajo, Normal o 
 La funcionalidad de la aplicación es sencilla e intuitiva. Podes elegir tu sexo, luego tenés un rango de altura en el cual al desplazar el botón vas eligiendo tu altura. Luego en la sección de peso y edad, tenes botones para subir o bajar según sea tu peso y edad. Una vez que tenés los valores deseados, tocamos en el botón <strong>CALCULAR</strong>, el cual nos redirigirá a una vista donde tenemos el <strong>BMI</strong> promedio, diciendonos si estamos con peso bajo, normal o con sobrepeso.
 
 ## Imágenes ilustrativas
-
-## Tecnologías usadas
 ![image](https://user-images.githubusercontent.com/67272806/215142231-dedab796-9af1-4fbd-95a7-99a55d90aacb.png)
 ![image](https://user-images.githubusercontent.com/67272806/215142278-96fe11fc-d9d7-443b-a116-0c6f064b0af8.png)
+
+## Tecnologías usadas
 
 - [![Angular][angular.io]][angular-url]
 - [![Typescript][typescript.com]][typescript-url]
